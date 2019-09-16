@@ -7,6 +7,4 @@
 int main()
 {
     std::cout << "Hello K-23!\n"; 
-	std::cout << "Hello K-23!\n";
-
 }

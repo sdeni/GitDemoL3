@@ -4,9 +4,12 @@
 #include "pch.h"
 #include <iostream>
 
+int superFeature(int a) {
+	return a * 2;
+}
+
 int main()
 {
     std::cout << "Hello K-23!\n"; 
 	std::cout << "Hello K-23!\n";
-
 }

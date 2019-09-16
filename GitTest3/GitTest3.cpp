@@ -6,5 +6,5 @@
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    std::cout << "Hello K-23!\n"; 
 }
